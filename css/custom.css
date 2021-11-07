@@ -7,6 +7,11 @@
 .button.button-primary {
    background-color: #CE0500;
    margin: 10px;
+
+}
+
+.button.button-primary:hover {
+     background: #fcbb01;
 }
 
 /* Sections
