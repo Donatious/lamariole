@@ -83,7 +83,9 @@
     height: 165px;
   }
   .hero.hero-logo {
-    
+    /*
+      center top right
+    */
   }
   .phone {
     position: absolute;
